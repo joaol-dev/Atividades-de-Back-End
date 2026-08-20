@@ -1,3 +1,7 @@
+# ALUNOS: 
+- João Lucas Binttencourt Rocha - 202422927
+- João Pedro Oliveira - 202422911
+
 # Atividades Back End
 
 Repositório destinado ao armazenamento e organização das atividades práticas desenvolvidas durante as aulas de Laboratório de Desenvolvimento Back-end.
