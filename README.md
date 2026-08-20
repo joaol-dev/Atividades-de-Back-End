@@ -49,5 +49,12 @@ Atividades Back Ends/
 │   ├── README.md
 │   └── .gitignore
 │
+├── Atividade 2/
+│   ├── cadastro_tarefa.py
+│   └── README.md
+│
+├── Atividade 3/
+│   └── ...
 │
 └── ...
+```
