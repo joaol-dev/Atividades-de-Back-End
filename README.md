@@ -40,6 +40,7 @@ python main.py
 
 As atividades são organizadas da seguinte forma:
 
+```text
 Atividades Back Ends/
 │
 ├── Atividade 1/
@@ -48,7 +49,5 @@ Atividades Back Ends/
 │   ├── README.md
 │   └── .gitignore
 │
-├── Atividade 2/
-│   └── cadastro_tarefa.py
 │
 └── ...
