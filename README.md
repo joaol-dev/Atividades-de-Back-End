@@ -47,14 +47,8 @@ Atividades Back Ends/
 │   ├── main.py
 │   ├── requirements.txt
 │   ├── README.md
-│   └── .gitignore
-│
-├── Atividade 2/
-│   ├── cadastro_tarefa.py
-│   └── README.md
-│
-├── Atividade 3/
-│   └── ...
+│   ├── .gitignore
+│   └── cadastro_tarefa.py
 │
 └── ...
 ```
