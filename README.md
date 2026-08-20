@@ -58,3 +58,9 @@ Atividades Back Ends/
 │
 └── ...
 ```
+
+## Estrutura do projeto
+
+main.py — arquivo principal responsável pela execução do projeto.
+requirements.txt — arquivo que reúne as dependências necessárias para executar a aplicação.
+.gitignore — arquivo que define quais arquivos e pastas devem ser ignorados pelo Git.
