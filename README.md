@@ -1,6 +1,8 @@
 # ALUNOS: 
 - João Lucas Binttencourt Rocha - 202422927
 - João Pedro Oliveira - 202422911
+- José Carlos Silva Pimentel - 202422916
+- Adriel dos Santos Azevedo - 202422733
 
 # Atividades Back End
 
@@ -50,6 +52,18 @@ Listar as tarefas cadastradas;
 Atualizar a situação de uma tarefa para concluída;
 Encerrar o sistema.
 As tarefas são armazenadas temporariamente em uma lista enquanto o programa está em execução.
+
+## Atividade - Gerenciador de chamados
+O programa tem como objetivo gerenciar chamados internos de uma equipe de serviços.
+
+A aplicação utiliza uma lista de dicionários para armazenar os chamados e demonstra conceitos básicos de Python, como:
+
+Listas e dicionários;
+Estruturas de repetição com for;
+Estruturas condicionais com if;
+Filtros por situação;
+Atualização de dados pelo identificador;
+Conjuntos (set) para evitar categorias repetidas.
 
 ## Limitações conhecidas
 Os dados são armazenados apenas durante a execução do programa.

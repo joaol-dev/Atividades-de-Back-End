@@ -1,8 +1,10 @@
 # Controle de Tarefas
 ## Alunos
 
-João Lucas Binttencourt Rocha - 202422927
-João Pedro Oliveira - 202422911
+- João Lucas Binttencourt Rocha - 202422927
+- João Pedro Oliveira - 202422911
+- José Carlos Silva Pimentel - 202422916
+- Adriel dos Santos Azevedo - 202422733
 
 ## Objetivo
 
