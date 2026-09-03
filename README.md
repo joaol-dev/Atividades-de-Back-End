@@ -14,9 +14,9 @@ A proposta é registrar e acompanhar a evolução dos conhecimentos em desenvolv
 
 ## Pré-requisito
 
-Python 3 instalado.
+Para executar as atividades, é necessário ter o Python 3 instalado no computador.
 
-## Execução
+## Execução 
 
 Crie o ambiente virtual:
 
@@ -40,6 +40,24 @@ Execute o script:
 
 python main.py
 
+## Atividade — Menu de tarefas
+Nesta atividade foi desenvolvido um sistema simples de gerenciamento de tarefas para uma equipe de serviços.
+
+O programa funciona por meio de um menu interativo no terminal e permite:
+
+Cadastrar uma tarefa;
+Listar as tarefas cadastradas;
+Atualizar a situação de uma tarefa para concluída;
+Encerrar o sistema.
+As tarefas são armazenadas temporariamente em uma lista enquanto o programa está em execução.
+
+## Limitações conhecidas
+Os dados são armazenados apenas durante a execução do programa.
+As tarefas são perdidas quando o sistema é encerrado.
+O programa ainda não utiliza banco de dados ou arquivos para armazenamento permanente.
+Não é possível excluir tarefas cadastradas.
+A opção de atualização altera apenas a situação da tarefa para concluída.
+
 ## Organização
 
 As atividades são organizadas da seguinte forma:
@@ -52,8 +70,8 @@ Atividades Back Ends/
 │   ├── requirements.txt
 │   ├── README.md
 │   ├── .gitignore
-│   └── cadastro_tarefa.py
-│
+│   ├── cadastro_tarefa.py
+│   └── menu_tarefas.py
 └── ...
 ```
 
