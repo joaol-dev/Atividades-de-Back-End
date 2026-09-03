@@ -8,20 +8,19 @@
 
 ## Objetivo
 
-O projeto apresenta uma refatoração de um sistema simples de controle de tarefas, utilizando uma classe para representar as tarefas e funções separadas para realizar as operações do sistema.
+Refatorar um sistema de controle de tarefas utilizando funções e programação orientada a objetos.
 
-A atividade demonstra conceitos de programação orientada a objetos, funções, listas e filtros.
+A atividade tem como objetivo separar as responsabilidades do programa em diferentes arquivos, tornando o código mais organizado, reutilizável e fácil de manter.
 
-## Execução
+## Funcionalidades
 
-Abra o terminal dentro da pasta controle_tarefas e execute:
+O sistema demonstra:
 
-python main.py
-
-
-Caso o ambiente utilize python3, execute:
-
-python3 main.py
+- Criação de tarefas;
+- Cadastro de tarefas;
+- Listagem de tarefas;
+- Conclusão de tarefas;
+- Filtro de tarefas por situação.
 
 ## Organização
 
